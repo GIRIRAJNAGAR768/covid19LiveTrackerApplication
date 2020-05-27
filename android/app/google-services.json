@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567950694694",
+    "firebase_url": "https://corona-tracker-be04a.firebaseio.com",
+    "project_id": "corona-tracker-be04a",
+    "storage_bucket": "corona-tracker-be04a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567950694694:android:eacf64e629e436c06f09e7",
+        "android_client_info": {
+          "package_name": "girisofts.covid.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567950694694-bukbg6o0fcic6ji3brjv6r6o6qgue22p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5dD1rLPKa2icbeUzUKe9UEKi1B257wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567950694694-bukbg6o0fcic6ji3brjv6r6o6qgue22p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
